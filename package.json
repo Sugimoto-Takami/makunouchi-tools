@@ -1,5 +1,5 @@
 {
-  "name": "makunouchi-tools",
+  "name": "@Sugimoto-Takami/makunouchi-tools",
   "version": "1.0.0",
   "description": "",
   "main": "dist/makunouchi-tools.ssr.js",
